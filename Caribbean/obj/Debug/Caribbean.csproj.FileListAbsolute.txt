@@ -1,0 +1,17 @@
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\Caribbean.exe.config
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\Caribbean.exe
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\Caribbean.pdb
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\Interop.WMPLib.dll
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.csprojAssemblyReference.cache
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Interop.WMPLib.dll
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.csproj.ResolveComReference.cache
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.Form1.resources
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.Properties.Resources.resources
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.csproj.GenerateResource.cache
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.csproj.CoreCompileInputs.cache
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.exe
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\Caribbean.pdb
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\gouripc\Source\Repos\Caribbean\Caribbean\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
